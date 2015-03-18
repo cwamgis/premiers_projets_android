@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LemanFisher</string>
+
+    <string name="title">Leman fisher</string>
+
+    <string name="baitname">Bait name</string>
+
+    <string name="brand">Brand</string>
+
+    <string name="price">Price ($)</string>
+
+    <string name="size">Size (in)</string>
+
+    <string name="weight">Weight (oz)</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="save">Save</string>
+</resources>

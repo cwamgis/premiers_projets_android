@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LemanFisher</string>
+
+    <string name="title">Pecheur du Leman</string>
+
+    <string name="baitname">Nom du leurre</string>
+
+    <string name="brand">Marque</string>
+
+    <string name="price">prix ($)</string>
+
+    <string name="size">Taille (in)</string>
+
+    <string name="weight">Poids (oz)</string>
+
+    <string name="action_settings">Reglages</string>
+
+    <string name="save">Enregistrer</string>
+</resources>
